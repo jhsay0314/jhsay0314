@@ -6,27 +6,23 @@
 
 <div align="center"> 
   
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-61DAFB?style=flat&logo=typescript&logoColor=black">
   <br />
 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=black">
-  <img src="https://img.shields.io/badge/zustand-007ACC?style=flat&logo=zustand&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat&logo=redux&logoColor=black">
+  <img src="https://img.shields.io/badge/nodedotjs-#5FA04E?style=flat&logo=zustand&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-#E0234E?style=flat&logo=zustand&logoColor=white">
   <br />
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/react_query-FF4154?style=flat&logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonwebservices-#232F3E?style=flat&logo=styledcomponents&logoColor=black">
+  <img src="https://img.shields.io/badge/googlecloud-#4285F4?style=flat&logo=tailwindcss&logoColor=white">
 
   <br />
 
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
-  <br />
   
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
 </div>
 
