@@ -5,24 +5,24 @@
 <div align=""><h1>📚 STACKS</h1></div>
 
 <div align="center"> 
-  
+
+  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=/python&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-61DAFB?style=flat&logo=typescript&logoColor=black">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <br />
 
-  <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat&logo=redux&logoColor=black">
-  <img src="https://img.shields.io/badge/nodedotjs-#5FA04E?style=flat&logo=zustand&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-#E0234E?style=flat&logo=zustand&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/amazonwebservices-#232F3E?style=flat&logo=styledcomponents&logoColor=black">
-  <img src="https://img.shields.io/badge/googlecloud-#4285F4?style=flat&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white" />
 
   <br />
 
   
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
