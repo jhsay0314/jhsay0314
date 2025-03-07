@@ -54,6 +54,4 @@
   *  [NeoTrinity](https://github.com/jhsay0314/NeoTrinityBack) (2023.06 ~ 2023.12)
   <p>  백엔드 - NestJs</p>
 
-  *  [MyGreen](https://github.com/HoChanny/MyGreen) (2023.03.02 ~ 2023.09.20)
-  <p>   - Flutter</p> 
 </div>
