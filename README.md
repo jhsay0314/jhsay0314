@@ -26,16 +26,6 @@
 
 </div>
 
-<div align=""><h1>🛠️MyLANGUEGE</h1></div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhsay0314)
-
-</div>
-
-
-
 
 <div align=""><h1>🔥My Representative Projects</h1></div>
 
